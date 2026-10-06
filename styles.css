@@ -1,0 +1,49 @@
+/* Overall page */
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Main function headings */
+h2 {
+  color: #4B6584;
+  border-bottom: 2px solid #D9E2F3;
+  padding-bottom: 6px;
+}
+
+/* Smaller headings */
+h3 {
+  color: #5B6B8A;
+}
+
+/* Tables */
+table {
+  margin: 15px 0;
+}
+
+th {
+  background-color: #D9E2F3;
+}
+
+table {
+  margin: 15px 0;
+}
+
+th {
+  background-color: #D9E2F3;
+}
+
+.remember {
+  background-color: #F3F6FA;
+  border-left: 5px solid #7B8DB5;
+  padding: 10px 15px;
+  margin: 15px 0;
+}
+
+pre.r {
+  background-color: #F3F6FA;
+  border-left: 5px solid #7B8DB5;
+  border-radius: 4px;
+  padding: 10px 15px;
+}
+}
